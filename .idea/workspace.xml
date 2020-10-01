@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1iGPr0x8CBkKBUUy1JCkKmWBF8n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -158,8 +158,26 @@
       <option name="project" value="LOCAL" />
       <updated>1601554180054</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1601554687040</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601554687040</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
@@ -178,10 +196,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="263" y="38" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.768@0.0.1366.768" timestamp="1601532059618" />
-    <state x="216" y="0" key="CommitChangelistDialog2" timestamp="1601554164276">
+    <state x="216" y="0" key="CommitChangelistDialog2" timestamp="1601554684429">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="216" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601554164276" />
+    <state x="216" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1601554684429" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1601555709831">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1601555709831" />
     <state width="1323" height="150" key="GridCell.Tab.0.bottom" timestamp="1601552555962">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -202,5 +224,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="379" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1601544159312" />
+    <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601555093983">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1601555093983" />
   </component>
 </project>
